@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_post_contents",
+  "info": {
+    "displayName": "content",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "article": {
+      "type": "richtext"
+    },
+    "date": {
+      "type": "date"
+    }
+  }
+}

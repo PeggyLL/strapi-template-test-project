@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "bolgs",
+  "info": {
+    "singularName": "bolg",
+    "pluralName": "bolgs",
+    "displayName": "fans",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "note": {
+      "type": "string"
+    },
+    "follow_from": {
+      "type": "datetime"
+    }
+  }
+}
